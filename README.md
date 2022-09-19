@@ -1,2 +1,4 @@
-# CSS-Basic
-Created with CodeSandbox
+CSS-Basics
+
+- Basic CSS Skills.
+- Second assignment.
